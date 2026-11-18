@@ -3,7 +3,7 @@
 **Team:** MeteoriteEaters  
 **Domain:** Sustainable Agriculture & Earth Observation Decision Support  
 
-Live link: https://fieldwise-agrosat.streamlit.app/
+Live link: https://nasaspaceappchallenge2026-txzvmpxkkvkqk4xudzyvg4.streamlit.app/
 
 ## Overview
 FieldWise helps Indian farmers explore, compare, and plan **3-season annual crop rotation pathways** (`Kharif → Rabi → Zaid`) using live **NASA POWER** agroclimatology telemetry and **ICAR** (Indian Council of Agricultural Research) agronomic guidelines.
